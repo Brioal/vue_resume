@@ -215,7 +215,7 @@
 <style scoped>
     .resume {
         background: white;
-        width: 800px;
+        /*!*width: 800px;*! 此时打印效果会变好*/
         color: black;
         padding: 50px;
         margin: 50px auto;
